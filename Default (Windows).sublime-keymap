@@ -1,0 +1,11 @@
+[
+
+{ "keys": ["ctrl+1"], "command": "insert_snippet", "args": {"name": "Packages/User/singleSelect.sublime-snippet"} },
+{ "keys": ["ctrl+2"], "command": "insert_snippet", "args": {"name": "Packages/User/mandatory.sublime-snippet"} },
+{ "keys": ["ctrl+3"], "command": "insert_snippet", "args": {"name": "Packages/User/onbreak.sublime-snippet"} },
+{ "keys": ["ctrl+4"], "command": "insert_snippet", "args": {"name": "Packages/User/updateSQL.sublime-snippet"} },
+{ "keys": ["ctrl+5"], "command": "insert_snippet", "args": {"name": "Packages/User/header.sublime-snippet"} },
+{ "keys": ["ctrl+7"], "command": "insert_snippet", "args": {"name": "Packages/User/join.sublime-snippet"} },
+{ "keys": ["ctrl+6"], "command": "insert_snippet", "args": {"name": "Packages/User/headerv2.sublime-snippet"} },
+{ "keys": ["ctrl+8"], "command": "insert_snippet", "args": {"name": "Packages/User/sqr_var_perl_var.sublime-snippet"} }
+]

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+\$${TM_SELECTED_TEXT}=<<"${1:SQL_END}";
+	SELECT
+
+	FROM
+
+	WHERE
+${1}
+PRH::PrepareSQL(\$dbh, "${TM_SELECTED_TEXT}", \$${TM_SELECTED_TEXT});
+my (\$,\$,\$,\$,\$,\$) = PRH::SingleRowSelect(\$dbh, "${TM_SELECTED_TEXT}", \$,\$,\@);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sselect</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

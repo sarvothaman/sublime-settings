@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"translate_spaces_to_tabs": true,
+	"translate_tabs_to_spaces": false
+}
